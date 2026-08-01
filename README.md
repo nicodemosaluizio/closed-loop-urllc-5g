@@ -201,6 +201,8 @@ medido pela sonda.
 Discussão completa dessas limitações na Seção 4.6 do artigo (*"Síntese do
 desenvolvimento: sucessos, desafios e limitações"*).
 
-## 8. Autor
+## 8. Autores
 
 Aluízio Nicodemos — PPGTI, IFPB Campus João Pessoa
+
+Ygor Correa — PPGTI, IFPB Campus João Pessoa
